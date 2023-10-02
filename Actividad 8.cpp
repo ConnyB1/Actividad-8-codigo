@@ -1,7 +1,7 @@
 //Cesar Alejandro Velazquez Mercado
 //372329
-//Me despliega la cadena de diferentes formas
-//25/09/2023
+//Me despliega arreglos y matrices
+//02/10/2023
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
